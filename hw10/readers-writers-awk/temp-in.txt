@@ -1,0 +1,8 @@
+sr
+dr
+sw
+sw
+sr
+dr
+dw
+dw

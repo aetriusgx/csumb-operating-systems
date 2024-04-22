@@ -1,0 +1,52 @@
+------ test1.p ------
+y = 3;
+print(y);
+------ output: ------
+y = 3;
+print(y);
+
+------ test2.p ------
+y = 3;
+x=y;
+print(  x);
+z=sign(x);
+------ output: ------
+y = 3;
+x = y;
+print(x);
+z = sign(x);
+
+------ test3.p ------
+y = 3
+x = y;
+------ output: ------
+line 2: syntax error
+
+------ test4.p ------
+y = 3; print(y);
+
+------ output: ------
+y = 3;
+print(y);
+
+------ test5.p ------
+
+
+------ output: ------
+line 3: syntax error
+
+------ test6.p ------
+y = 3;
+x = abs(y);
+print(x);
+------ output: ------
+y = 3;
+x = abs(y);
+print(x);
+
+------ test7.p ------
+y = 3;
+x = abs(y);
+print;
+------ output: ------
+line 3: syntax error
