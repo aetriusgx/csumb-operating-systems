@@ -1,0 +1,5 @@
+When you type 'make', the second line of output should be 3 + 4 - 1.
+
+Find and fix the bug in the code.  The bug could be anywhere, but
+it is just in one file.
+

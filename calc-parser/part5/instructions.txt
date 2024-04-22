@@ -1,0 +1,7 @@
+
+Use 'make' to compile the program, then 'make tests' to run some tests.
+
+The tests don't work because there is some code missing in parser.c.
+Replace the comment YOUR CODE here with your own code.
+When you're done, recompile and then 'make tests'.
+

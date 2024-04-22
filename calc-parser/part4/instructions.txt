@@ -1,0 +1,8 @@
+If you make the program, and run the program like this:
+
+   ./calc <<< "1 - 2"
+
+you will get a syntax error, because the parser isn't finished.
+
+Replace the two YOUR CODE HERE comments in parser.c with your own code.
+
