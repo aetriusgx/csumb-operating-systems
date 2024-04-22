@@ -1,0 +1,1 @@
+> input must contain only zeros and ones
